@@ -1,1 +1,1 @@
-document.getElementById('root').style.color = '#0a58ca';
+console.log("VisionPro landing page loaded successfully.");
