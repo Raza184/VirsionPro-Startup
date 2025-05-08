@@ -1,0 +1,1 @@
+document.getElementById('root').style.color = '#0a58ca';
